@@ -1,0 +1,6 @@
+projectKey=com.dept.app:MyWebApp
+serverUrl=http://52.201.247.182:9000
+serverVersion=8.9.6.50800
+dashboardUrl=http://52.201.247.182:9000/dashboard?id=com.dept.app%3AMyWebApp
+ceTaskId=AZttCXMIhYBrAOlF5q_3
+ceTaskUrl=http://52.201.247.182:9000/api/ce/task?id=AZttCXMIhYBrAOlF5q_3
